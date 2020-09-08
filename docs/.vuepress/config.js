@@ -10,7 +10,7 @@ module.exports = {
     },
     themeConfig: {
       nav:[ // 导航栏配置
-        {text: '前端', link: '/accumulate/' },
+        {text: '前端', link: '/front/' },
         {text: '算法', link: '/algorithm/'},
         {text: '读书', link: 'https://baidu.com'}      
       ],
