@@ -41,4 +41,5 @@ module.exports = {
     // sidebarDepth: 3,
     },
     plugins: ['autobar']
+    
   };
